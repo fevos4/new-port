@@ -62,19 +62,24 @@ const About = () => {
           </div>
 
           <p className="text-gray-300 leading-relaxed max-w-3xl">
-            I am a passionate Computer Science and Engineering graduate with
-            hands-on experience in web design and development. With a solid
-            foundation in{" "}
+            I’m a Computer Science and Engineering graduate, but most of my
+            practical skills come from teaching myself how to code and build
+            real projects. I enjoy figuring things out on my own and turning
+            ideas into working websites using{" "}
             <span className="text-orange-400 font-semibold">HTML</span>,{" "}
             <span className="text-blue-400 font-semibold">CSS</span>,{" "}
             <span className="text-yellow-400 font-semibold">JavaScript</span>,{" "}
             <span className="text-cyan-400 font-semibold">Tailwind CSS</span>,
-            and <span className="text-blue-300 font-semibold">ReactJS</span>, I
-            bring both creativity and technical expertise to every project. I
-            have a keen eye for detail and thrive in crafting visually
-            appealing, responsive, and user-friendly websites. I'm a fast
-            learner who is always exploring new technologies and expanding my
-            knowledge to stay current and grow as a developer.
+            <span className="text-blue-300 font-semibold">ReactJS</span>, and{" "}
+            <span className="text-yellow-700 font-semibold">NextJS</span> I
+            focus on creating clean, responsive, and user-friendly designs, and
+            I'm always improving by learning through practice. I'm not afraid to
+            try new things or step into unfamiliar areas, which helps me grow
+            quickly and adapt to new challenges. Alongside web development, I
+            also have experience in translation, editing, and proofreading,
+            allowing me to communicate clearly and deliver polished,
+            well-structured content. I'm always exploring new technologies and
+            pushing myself to get better every day.
           </p>
           <h3 className="font-bold text-2xl">Area of skills</h3>
           {/* Tech Icons with floating + glow + rotate */}
